@@ -7,6 +7,15 @@
 <div align=center><img src="https://github.com/jys125773/VueDemo_Eleme/blob/master/screenshot/2.png" width="40%"></div>
 
 <div align=center><img src="https://github.com/jys125773/VueDemo_Eleme/blob/master/screenshot/3.png" width="40%"></div>
+
+## 演示
+
+<div align=center><a href="http://vuejssellapp.t.imooc.io/" target=_blank>在线演示戳我</a></div>
+
+<div align=center>
+<img src="https://static.oschina.net/uploads/space/2017/0207/180535_4FSI_2493500.png" width="20%">
+<div>扫二维码在手机上查看效果更好</div>
+</div>
 # Build Setup
 
 ``` bash
