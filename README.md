@@ -1,8 +1,13 @@
 # seller
 
 > a vue seller
+>vue2.0、vue-router、webpack、eslint、better-scroll
+## 项目截图
 
-## Build Setup
+<div align=center><img src="https://static.oschina.net/uploads/space/2017/0207/110250_3uWi_2493500.jpeg" width="40%"></div>
+
+<div align=center><img src="https://static.oschina.net/uploads/space/2017/0207/110759_xva1_2493500.jpeg" width="40%"></div>
+# Build Setup
 
 ``` bash
 # install dependencies
