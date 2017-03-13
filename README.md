@@ -1,7 +1,5 @@
-# seller
-
-> a vue seller
->vue2.0、vue-router、webpack、eslint、better-scroll
+# vueDemo_eleme
+>vue1.0、vue-router、webpack、eslint、better-scroll
 ## 项目截图
 
 <div align=center><img src="https://github.com/jys125773/VueDemo_Eleme/blob/master/screenshot/1.png" width="40%"></div>
